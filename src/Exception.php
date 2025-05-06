@@ -29,7 +29,7 @@ class Exception extends \Exception
      * @param int             $code
      * @param \Exception|null $previous
      */
-    public function __construct(Entity $entity, $message = "", $code = 0, \Exception $previous = null)
+    public function __construct(Entity $entity, $message = "", $code = 0, ?\Exception $previous = null)
     {
         $this->entity = $entity;
         parent::__construct($message, $code, $previous);
