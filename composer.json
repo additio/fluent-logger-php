@@ -3,7 +3,7 @@
     "type": "library",
     "description": "a logging library for Fluentd",
     "keywords": ["log","logging"],
-    "homepage": "http://github.com/fluent/fluent-logger-php",
+    "homepage": "https://github.com/additio/fluent-logger-php",
     "license": "Apache",
     "authors": [
         {
