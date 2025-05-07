@@ -6,7 +6,7 @@
 
 ## Requirements
 
-- PHP 5.6 or higher
+- PHP 7.1 or higher
 - fluentd v0.9.20 or higher
 
 ## Installation
@@ -18,7 +18,7 @@ composer.json
 ```json
 {
     "require": {
-        "fluent/logger": "v1.0.0"
+        "fluent/logger": "v1.0.2"
     }
 }
 ```
